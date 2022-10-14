@@ -1,0 +1,51 @@
+state,FIPS,courtFOIA,courtRules,RulesOrFOIA,probationAndPretrial,spendPublicFundsFOIA,spendPublicFundsRule,spendPublicFundRuleOrFOIA,State Judiciary is subject to FOIA,State Judicial Rule Provides Access,Either Court Rule or FOIA Provides Access,Probation and Pretrial Data is Subject to FOIA,Court Use of Public Funds is Subject to FOIA
+Alabama,1,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Alaska,2,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Arizona,4,0,1,1,1,0,1,1,No,Yes,Yes,Yes,No
+Arkansas,5,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+California,6,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+Colorado,8,0,0,0,1,1,NA,1,No,No,No,Yes,Yes
+Connecticut,9,0,0,0,1,1,NA,1,No,No,No,Yes,Yes
+Delaware,10,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Florida,12,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+Georgia,13,0,1,1,1,0,1,1,No,Yes,Yes,Yes,No
+Hawaii,15,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+Idaho,16,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Illinois,17,0,0,0,0,0,0,0,No,No,No,No,No
+Indiana,18,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Iowa,19,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Kansas,20,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Kentucky,21,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Louisiana,22,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Maine,23,0,0,0,1,1,NA,1,No,No,No,Yes,Yes
+Maryland,24,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Massachusetts,25,1,1,1,1,1,NA,1,Yes,Yes,Yes,Yes,Yes
+Michigan,26,0,0,0,1,1,NA,1,No,No,No,Yes,Yes
+Minnesota,27,0,1,1,0,0,1,1,No,Yes,Yes,No,No
+Mississippi,28,1,0,1,1,0,1,1,Yes,No,Yes,Yes,No
+Missouri,29,1,0,1,1,0,1,1,Yes,No,Yes,Yes,No
+Montana,30,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Nebraska,31,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Nevada,32,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+New Hampshire,33,0,0,0,1,1,NA,1,No,No,No,Yes,Yes
+New Jersey,34,0,1,1,0,1,NA,1,No,Yes,Yes,No,Yes
+New Mexico,35,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+New York,36,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+North Carolina,37,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+North Dakota,38,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+Ohio,39,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Oklahoma,40,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Oregon,41,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Pennsylvania,42,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+Rhode Island,44,0,0,0,1,1,NA,1,No,No,No,Yes,Yes
+South Carolina,45,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+South Dakota,46,0,0,0,1,1,NA,1,No,No,No,Yes,Yes
+Tennessee,47,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Texas,48,0,0,0,1,1,NA,1,No,No,No,Yes,Yes
+Utah,49,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Vermont,50,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+Virginia,51,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+Washington,53,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
+West Virginia,54,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Wisconsin,55,1,0,1,1,1,NA,1,Yes,No,Yes,Yes,Yes
+Wyoming,56,0,1,1,1,1,NA,1,No,Yes,Yes,Yes,Yes
